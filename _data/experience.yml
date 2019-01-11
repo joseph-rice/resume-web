@@ -1,17 +1,17 @@
 # Jobs
 
-# Pega
-- company: Pegasystems
-  logo: pega
-  position: Associate System Architect
+# Citi
+- company: Citi
+  logo: citi
+  position: API Evangelist and Engineering Lead
   duration: 2018 &mdash; Present
   # summary: TBC
-  linkedin: https://www.linkedin.com/company/pegasystems/
+  linkedin: https://www.linkedin.com/company/citi/
 
-# Accenture
-- company: Accenture
-  logo: accenture
-  position: Software Engineer (Industrial Placement)
-  duration: 2016 &mdash; 2017
-  summary: Helped deliver a large government project in the utilities industry, enabling a supplier to communicate with their smart meters remotely.	<ul class="resume-item-list"><li>Gained experience in Requirement Analysis, Test Planning, Test Script Creation, Test Execution</li><li>Made use of PuTTY, XML, HP Quality Center and Virtual Machines for day-to-day tasks</li><li>Heavily improved soft skills by communicating with clients directly, representing the clients to external vendors and attending stand-up meetings</li></ul>
-  linkedin: https://www.linkedin.com/company/accenture/
+# BankOfAmerica
+- company: Bank of America
+  logo: bankofamerica
+  position: Chief Engineer (API Integration)
+  duration: 2002 &mdash; 2017
+  summary: Helped deliver a large 
+  linkedin: https://www.linkedin.com/company/bankofamerica/
